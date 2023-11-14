@@ -18,4 +18,4 @@
 - cache türleri L1,L2,L3 karşılaştırma ⭐
 - apple M1 M2 arasındaki farklar ⭐
 - IEE754 Floating points ⭐
-- Bide flaglar tanesi puandan 6 flag sorarım dedi ⭐
+- Flaglar tanesi puandan 6 flag sorarım dedi ⭐
