@@ -19,3 +19,9 @@
 - Apple M1 ve M2 işlemci arasındaki farklar ⭐
 - IEE754 Floating points ⭐
 - Flaglar tanesi puandan 6 flag sorarım dedi ⭐
+
+- Son çıkan işlemci
+- intel i9-i7 farkı
+- Cache memory, Virtual memory
+- Assembler programları nelerdir
+- Hem Assembler hem Debugger kullanan programlar var mı
