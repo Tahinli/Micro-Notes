@@ -23,5 +23,5 @@
 - Son çıkan işlemci
 - intel i9-i7 farkı
 - Cache memory, Virtual memory
-- Assembler programları nelerdir
-- Hem Assembler hem Debugger kullanan programlar var mı
+- Assembler programları nelerdir ?
+- Hem Assembler hem Debugger kullanan programlar var mı ?
