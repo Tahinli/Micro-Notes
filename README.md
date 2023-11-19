@@ -25,3 +25,11 @@
 - Cache memory, Virtual memory
 - Assembler programları nelerdir ?
 - Hem Assembler hem Debugger kullanan programlar var mı ?
+- 
+## bu kısım videolardan sorular
+- mikrobilgisayar ile mikrodenetleyici farki nedir ?
+- real mode avantaji/dezavantaji, nasil kullanildigi, adres hesaplamasi bilgileri (segment offset fln) ?
+-  ![sorular4](https://github.com/Tahinli/Micro-Notes/assets/91667950/1439102a-24eb-4835-910e-9a68a278be08)
+-  ![sorular4-2](https://github.com/Tahinli/Micro-Notes/assets/91667950/9fe556bb-9583-4fc8-9024-1516c1f0a78e)
+
+
